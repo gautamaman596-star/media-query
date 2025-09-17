@@ -57,7 +57,6 @@ main,.left,.right{
 
 
 
-}
 header   { order: 0; }
 main     { order: 1; }
 .left    { order: 2; }
@@ -108,4 +107,3 @@ footer   { order: 4; }
     order: unset;
   }
 }
-
