@@ -56,9 +56,7 @@ main,.left,.right{
     }
 
 
-.middle {
-  display: flex;
-  flex-direction: column;
+
 }
 header   { order: 0; }
 main     { order: 1; }
@@ -110,3 +108,4 @@ footer   { order: 4; }
     order: unset;
   }
 }
+
